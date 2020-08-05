@@ -28,7 +28,7 @@ WiFi: Xiaomi USB WiFi (MT7601) $5
 # Result
 
 ![Info](/images/info.png)
-Geekbench 5 https://browser.geekbench.com/v5/cpu/3178038
+Geekbench 5 https://browser.geekbench.com/v5/cpu/3179330
 
 # Note
 To use Xiaomi WiFi please [add vid pid to kext's known devices list](XiaomiWifi.md)
